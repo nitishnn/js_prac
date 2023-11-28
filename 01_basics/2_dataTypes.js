@@ -31,3 +31,4 @@ console.log( typeof "cat")
 console.log( typeof age)
 console.log( typeof undefined) //output undefined
 console.log( typeof null) // object
+
